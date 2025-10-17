@@ -11,8 +11,8 @@ This is a full-stack web application built for perfume enthusiasts. The applicat
 
 ## Tech Stack
 - Frontend: ReactJS
-- Backend: Node.js with Express
-- Database: [Specify your database, e.g., MongoDB/PostgreSQL]
+- Backend: Node.js with Express , python
+- Database: [MongoDB]
 - Containerization: Docker and Docker Compose
 
 ## Getting Started
