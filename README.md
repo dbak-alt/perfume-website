@@ -1,6 +1,8 @@
 # Perfumes with Recommendation
 
-# Final Project - https://drive.google.com/file/d/1fWmpP0OuAmmFgdopwuPcdFFmVjbPHwIa/view?usp=sharing
+# Final Project 
+Access the link to see the documentation of final year project
+https://drive.google.com/file/d/1fWmpP0OuAmmFgdopwuPcdFFmVjbPHwIa/view?usp=sharing
 
 ## Project Overview
 This is a full-stack web application built for perfume enthusiasts. The application collects user data on preferences, interests, and lifestyle to generate personalized perfume recommendations using dynamic algorithms. It includes a ReactJS frontend, Node.js backend, and a database service.
